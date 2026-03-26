@@ -1,0 +1,80 @@
+# AI-CAPSTONE-PROJECT
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Webpage</title>
+</head>
+<body>
+  <h1>My Name is Tabitha</h1>
+  <p>I am learning HTML.</p>
+  <h2>My Hobbies</h2>
+  <ul>
+    <li>Reading</li>
+    <li>Coding</li>
+    <li>Music</li>
+  </ul>
+</body>
+</html>
+
+Step 1: `<!DOCTYPE htm>
+
+This tells the browser:
+
+
+Step 2:<html>
+This is the main container of the whole webpage.
+
+Step 3: <head>
+
+The `<head>` section stores information about the webpage, but this information is usually not shown on the page itself
+
+Step 4: `<title>
+<title>My First Webpage</title>
+This gives your webpage a (title)
+
+Step 5: `<body>
+The `<body>` contains everything that appears on the actual webpage
+
+This includes:
+
+* headings
+* paragraphs
+* images
+* links
+* lists
+* buttons
+
+Step 6: `<h1>
+<h1>My Name is Tabitha</h1>
+This creates a (main heading)
+
+Step 7: `<p>`**
+<p>I am learning HTML.</p>
+This creates a (paragraph)
+On the page:
+It shows normal text:I am learning HTML.
+
+
+Step 8: `<h2>
+<h2>My Hobbies</h2>
+This creates a (subheading)
+
+Step 9: `<ul>
+<ul>
+This creates an (unordered list)
+* Reading
+* Coding
+* Music
+
+Step 10: `<li>
+
+```html
+<li>Reading</li>
+<li>Coding</li>
+<li>Music</li>
+
+<li>` means list item
+
+
